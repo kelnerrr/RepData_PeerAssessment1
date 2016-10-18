@@ -1,6 +1,12 @@
 # Reproducible Research: Peer Assessment 1
 
 
+<<<<<<< HEAD
+=======
+```
+## [1] "English_United States.1252"
+```
+>>>>>>> 6bdc23650ee915093268f2bf2b21cd3bf58d6063
 
 
 ## Loading and preprocessing the data
